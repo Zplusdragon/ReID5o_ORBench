@@ -11,4 +11,7 @@ More details can be found at our paper [ReID5o: Achieving Omni Multi-modal Perso
   
 ## ORBench
 
+## ReID5o
+The ReID5o code and model will be made publicly available after the paper is accepted. Stay tuned!
+
 
