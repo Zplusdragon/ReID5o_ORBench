@@ -1,5 +1,5 @@
 # ReID5o_ORBench
-<div align="center"><img src="Figures/ORBench.pdf" width="900"></div>
+<div align="center"><img src="Figures/ORBench.png" width="900"></div>
 
 We investigate a new challenging problem called **Omni Multi-modal Person Re-identification** (OM-ReID), which aims to achieve effective retrieval with varying multi-modal queries. 
 
