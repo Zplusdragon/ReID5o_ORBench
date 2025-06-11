@@ -6,7 +6,7 @@ To address dataset scarcity, we construct **ORBench**, the first high-quality mu
 More details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](https://arxiv.org/abs/2312.03441).
 
 ## News
-* 🔥[2025.6.12] We are hosting the Omni-Modality Person Re-Identification Challenge at PRCV2025 using ORBench. Welcome to participate!
+* 🔥[2025.6.12] We are hosting the Omni-Modality Person Re-Identification Challenge at PRCV2025 using ORBench. With generous prizes, everyone is welcome to participate!
 * 🔥[2025.6.12] The paper is released.
   
 ## ORBench
