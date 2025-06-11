@@ -14,7 +14,7 @@ More details can be found at our paper [ReID5o: Achieving Omni Multi-modal Perso
 ## ORBench
 We are hosting the Omni-Modality Person Re-Identification Challenge at PRCV2025 using ORBench. Teams interested in participating should carefully read the competition matters on the official website, fill out the registration form, sign the Data Use License Agreement in the *Licences* folder of this repository, and send both documents to prcv2025omreid@163.com to obtain the dataset download link.  
 
-**Note:** The complete version of ORBench will not be publicly released during the competition. To better promote academic research, **the full version of ORBench will be released after the competition concludes** (approximately October 2025).
+**Note:** The complete version of ORBench (the test set) will not be publicly released during the competition. To better promote academic research, **the full version of ORBench will be released after the competition concludes** (approximately October 2025).
 
 ## ReID5o
 The ReID5o code and model will be made publicly available after the paper is accepted. Stay tuned!
