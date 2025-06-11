@@ -4,3 +4,11 @@ We investigate a new challenging problem called **Omni Multi-modal Person Re-ide
 To address dataset scarcity, we construct **ORBench**, the first high-quality multi-modal dataset comprising 1,000 unique identities across five modalities: RGB, infrared, color pencil, sketch, and textual description. Moreover, we propose **ReID5o**, a novel multi-modal learning framework for person ReID. It enables synergistic fusion and cross-modal alignment of arbitrary modality combinations in a single model. 
 
 More details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](https://arxiv.org/abs/2312.03441).
+
+## News
+* 🔥[2025.6.12] We are hosting the Omni-Modality Person Re-Identification Challenge at PRCV2025 using ORBench. Welcome to participate!
+* 🔥[2025.6.12] The paper is released.
+  
+## ORBench
+
+
