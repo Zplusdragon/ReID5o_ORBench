@@ -19,4 +19,15 @@ We are hosting the Omni-Modality Person Re-Identification Challenge at PRCV2025 
 ## ReID5o
 The ReID5o code and model will be made publicly available after the paper is accepted. Stay tuned!
 
-
+## Reference
+If you use this work in your research, please cite it by the following BibTeX entry:
+```
+@misc{zuo2025reid5oachievingomnimultimodal,
+      title={ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model}, 
+      author={Jialong Zuo and Yongtai Deng and Mengdan Tan and Rui Jin and Dongyue Wu and Nong Sang and Liang Pan and Changxin Gao},
+      year={2025},
+      eprint={2506.09385},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.09385}, 
+}
