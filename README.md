@@ -8,7 +8,7 @@ To address dataset scarcity, we construct **ORBench**, the first high-quality mu
 Details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](http://arxiv.org/abs/2506.09385).
 
 ## News
-* 🔥[2025.10.22] The ReID5o model and ORBench dataset are released. welcome to use!
+* 🔥[2025.10.22] The ReID5o model and ORBench dataset are released. Welcome to use!
 * 👏[2025.10.17] The OM-ReID challenge (PRCV2025) has concluded. Congratulations to all the winning teams!
 * 👍[2025.9.18] Our paper is accepted at NeurIPS2025!
 * 🤞[2025.6.13] We are hosting the [OM-ReID challenge](http://2025.prcv.cn/CN/Competitions2/) at PRCV2025 using ORBench. Everyone is welcome to participate! 
@@ -17,7 +17,7 @@ Details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-
 ## ORBench
 <div align="center"><img src="Figures/ORBench.png" width="900"></div>
 
-We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/file/d/1kfqAY9xfRguV-A_ntZqVtER-fz4uf-jq/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1zbfHwXU66KTeVDGzxx2VBg?pwd=1037) to facilitate researchers in downloading and using them. Users are requested to voluntarily sign the `Data_Use_License_Agreement.pdf` and send them to our email address.
+We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/file/d/1kfqAY9xfRguV-A_ntZqVtER-fz4uf-jq/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1zbfHwXU66KTeVDGzxx2VBg?pwd=1037) to facilitate researchers in downloading and using them. Users are requested to sign the `Data_Use_License_Agreement.pdf` and send it to our email address.
 
 The ORBench dataset has the following format, you should place it in your data root:
 
