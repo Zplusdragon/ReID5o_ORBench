@@ -41,7 +41,7 @@ The ORBench dataset has the following format, you should place it in your data r
 ReID5o achieves superior performance by enabling retrieval of the RGB modality from any combination of four modalities (infrared, color painting, sketch, text) within a single model.
 
 ### Checkpoint Prepare
-Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing)  or [BaiduYun](https://pan.baidu.com/s/18zUL_d6LSE3G8nLxvB4hJA?pwd=1037) and organize it in `ReID5o` folder as follows:
+Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing)  or [BaiduYun](https://pan.baidu.com/s/18zUL_d6LSE3G8nLxvB4hJA?pwd=1037), and organize it in `ReID5o` folder as follows:
 ```
 |-- ReID5o/
 |   |-- data/
