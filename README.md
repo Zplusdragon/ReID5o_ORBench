@@ -17,7 +17,7 @@ Details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-
 ## ORBench
 <div align="center"><img src="Figures/ORBench.png" width="900"></div>
 
-We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/drive/folders/1PSFXdc4Iid7RK3DicTZ3Tfygu00ntrFn?usp=sharing) to facilitate researchers in downloading and using them. Users are requested to voluntarily sign the relevant agreements and send them to our email address.
+We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/file/d/1kfqAY9xfRguV-A_ntZqVtER-fz4uf-jq/view?usp=sharing) to facilitate researchers in downloading and using them. Users are requested to voluntarily sign the relevant agreements and send them to our email address.
 
 The ORBench dataset has the following format, you should place it in your data root:
 
