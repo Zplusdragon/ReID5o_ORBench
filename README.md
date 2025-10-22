@@ -22,7 +22,7 @@ We have publicly released our complete ORBench dataset on [Google Drive](https:/
 The ORBench dataset has the following format, you should place it in your data root:
 
 ```
-|-- data/
+|-- data_root/
 |   |-- ORBench/
 |   |   |-- cp/
 |   |       |-- 0001
@@ -38,7 +38,45 @@ The ORBench dataset has the following format, you should place it in your data r
 ```
 
 ## ReID5o
-The ReID5o code and model will be made publicly available after the paper is accepted. Stay tuned!
+ReID5o achieves superior performance by enabling retrieval of the RGB modality from any combination of four modalities (infrared, color painting, sketch, text) within a single model.
+
+### Checkpoint Prepare
+Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing) and organize it in `ReID5o` folder as follows:
+```
+|-- ReID5o/
+|   |-- data/
+|   |-- datasets/
+|   |-- logs/
+|   |   |-- reid5o_ckpt/
+|   |   |   |-- best.pth
+|   |   |   |-- configs.yaml
+|   |-- model/
+|   |-- solver/
+|   |-- utils/
+|   |-- infer.py
+|   |-- test.py
+```
+
+### Evaluation
+First, you should modify `root_dir` in `configs.yaml` to your data root. Then run the following command:
+
+```
+python test.py
+```
+
+Once this program finishes (approximately a few minutes), it will provide the evaluation results of ReID5o on the entire ORBench.
+
+### Inference
+Run the following command:
+
+```
+python infer.py
+```
+
+This code uses several specified query examples to generate visual retrieval results from the gallery, and you can freely modify these examples.
+
+Some visual retrieval results:
+
 
 ## Reference
 If you use this work in your research, please cite it by the following BibTeX entry:
