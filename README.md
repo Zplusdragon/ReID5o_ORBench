@@ -76,7 +76,10 @@ python infer.py
 This code uses several specified query examples to generate visual retrieval results from the gallery, and you can freely modify these examples.
 
 Some visual retrieval results:
+<div align="center"><img src="Figures/examples.png" width="900"></div>
 
+## Acknowledgements
+We thank these great works and open-source repositories: [SYSU-MM01](https://github.com/wuancong/SYSU-MM01), [LLCM](https://github.com/ZYK100/LLCM), [IRRA](https://github.com/anosorae/IRRA), [RDE](https://github.com/QinYang79/RDE).
 
 ## Reference
 If you use this work in your research, please cite it by the following BibTeX entry:
