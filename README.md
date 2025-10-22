@@ -17,7 +17,7 @@ Details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-
 ## ORBench
 <div align="center"><img src="Figures/ORBench.png" width="900"></div>
 
-We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/file/d/1kfqAY9xfRguV-A_ntZqVtER-fz4uf-jq/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1zbfHwXU66KTeVDGzxx2VBg?pwd=1037) to facilitate researchers in downloading and using them. Users are requested to voluntarily sign the relevant agreements and send them to our email address.
+We have publicly released our complete ORBench dataset on [Google Drive](https://drive.google.com/file/d/1kfqAY9xfRguV-A_ntZqVtER-fz4uf-jq/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1zbfHwXU66KTeVDGzxx2VBg?pwd=1037) to facilitate researchers in downloading and using them. Users are requested to voluntarily sign the `Data_Use_License_Agreement.pdf` and send them to our email address.
 
 The ORBench dataset has the following format, you should place it in your data root:
 
@@ -41,7 +41,7 @@ The ORBench dataset has the following format, you should place it in your data r
 ReID5o achieves superior performance by enabling retrieval of the RGB modality from any combination of four modalities (infrared, color painting, sketch, text) within a single model.
 
 ### Checkpoint Prepare
-Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing) and organize it in `ReID5o` folder as follows:
+Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing)  or [BaiduYun](https://pan.baidu.com/s/18zUL_d6LSE3G8nLxvB4hJA?pwd=1037) and organize it in `ReID5o` folder as follows:
 ```
 |-- ReID5o/
 |   |-- data/
