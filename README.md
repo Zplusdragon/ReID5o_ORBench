@@ -42,7 +42,7 @@ The ORBench dataset has the following format, you should place it in your data r
 ReID5o achieves superior performance by enabling retrieval of the RGB modality from any combination of four modalities (infrared, color painting, sketch, text) within a single model.
 
 ### Checkpoint Prepare
-[2025/12/24 updated] We have discovered a bug in the code related to the classification head and are currently fixing it and retraining the model. The retrained model checkpoint and corresponding evalutation results will be released recently. Please stay tuned!
+[2025/12/24 updated] We have discovered a bug in the code related to the classification head and are currently fixing it and retraining the model. The retrained model checkpoint and corresponding evalutation results will be released recently. To avoid causing any confusion, the previous model checkpoint have been temporarily hidden and will not be made public. Please stay tuned!
 ```
 |-- ReID5o/
 |   |-- data/
