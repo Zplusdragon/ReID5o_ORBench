@@ -8,7 +8,8 @@ To address dataset scarcity, we construct **ORBench**, the first high-quality mu
 Details can be found at our paper [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](http://arxiv.org/abs/2506.09385).
 
 ## News
-* 🔥[2025.10.22] The ReID5o model and ORBench dataset are released. Welcome to use!
+* 🔥[2025.12.24] We have discovered a bug in the code related to the classification head and are currently fixing it and retraining the model.
+* 👏[2025.10.22] The ReID5o model and ORBench dataset are released. Welcome to use!
 * 👏[2025.10.17] The OM-ReID challenge (PRCV2025) has concluded. Congratulations to all the winning teams!
 * 👍[2025.9.18] Our paper is accepted at NeurIPS2025!
 * 🤞[2025.6.13] We are hosting the [OM-ReID challenge](http://2025.prcv.cn/CN/Competitions2/) at PRCV2025 using ORBench. Everyone is welcome to participate! 
@@ -41,7 +42,7 @@ The ORBench dataset has the following format, you should place it in your data r
 ReID5o achieves superior performance by enabling retrieval of the RGB modality from any combination of four modalities (infrared, color painting, sketch, text) within a single model.
 
 ### Checkpoint Prepare
-Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1226GUahDVeT-CyyUR8UmwOi5pu33A8-z/view?usp=sharing)  or [BaiduYun](https://pan.baidu.com/s/18zUL_d6LSE3G8nLxvB4hJA?pwd=1037), and organize it in `ReID5o` folder as follows:
+[2025/12/24 updated] We have discovered a bug in the code related to the classification head and are currently fixing it and retraining the model. The retrained model checkpoint and corresponding evalutation results will be released recently. Please stay tuned!
 ```
 |-- ReID5o/
 |   |-- data/
