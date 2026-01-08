@@ -82,7 +82,9 @@ class ReID5oModel(nn.Module):
         self.width = base_cfg['vision_width']  # 768
         self.image_resolution = base_cfg['image_resolution']
         self.encoder_layers = base_cfg['vision_layers']
-        self.heads = self.embed_dim //64
+        
+        # self.heads = self.embed_dim //64 fixed this bug
+        self.heads = self.width//64
 
         self.mmt_depth = args.mmt_depth
 
