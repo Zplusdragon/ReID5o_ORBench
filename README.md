@@ -61,7 +61,7 @@ ReID5o achieves superior performance by enabling retrieval of the RGB modality f
 |   |-- test.py
 ```
 
-The evaluation results of the retrained model:
+**The evaluation results of the retrained new model:**
 ```
 +----------------+--------+--------+--------+--------+--------+
 |      task      |   R1   |   R5   |  R10   |  mAP   |  mINP  |
